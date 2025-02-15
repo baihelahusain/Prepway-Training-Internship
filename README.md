@@ -1,4 +1,3 @@
-# Prepway-Internship
 # PyInternAdventures
 
 ![GitHub Banners_pages-to-jpg-0001](https://github.com/user-attachments/assets/80cf34fd-241c-4099-a159-70ab17d53624)
