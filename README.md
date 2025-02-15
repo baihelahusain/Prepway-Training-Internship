@@ -7,7 +7,6 @@
 - [Overview](#overview)
 - [Projects](#projects)
 - [How to Use](#how-to-use)
-- [Contribution Guidelines](#contribution-guidelines)
 - [Connect with Me](#connect-with-me)
 
 ## Overview
@@ -35,7 +34,7 @@ Explore a variety of Python projects, each designed to enhance your coding skill
 - 👉 [Python HackerRank Practice](Python%20HackerRank%20Practice)
 
 
-#Connect With Me
+#Connect with Me
 
 - Email: <a href="mailto:email@example.com">baihelahusain@gmail.com</a>
 - linkedin: <a href="https://www.linkedin.com/in/baihela-hussain/" target="_blank">@krushnal-jagannath-patil</a>
