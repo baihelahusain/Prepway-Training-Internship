@@ -37,7 +37,7 @@ Explore a variety of Python projects, each designed to enhance your coding skill
 #Connect with Me
 
 - Email: <a href="mailto:email@example.com">baihelahusain@gmail.com</a>
-- linkedin: <a href="https://www.linkedin.com/in/baihela-hussain/" target="_blank">@krushnal-jagannath-patil</a>
+- linkedin: <a href="https://www.linkedin.com/in/baihela-hussain/" target="_blank">@baihelahussain</a>
 
 
 -Happy coding! 🚀✨ 
