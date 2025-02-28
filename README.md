@@ -25,7 +25,7 @@
 
 Explore a variety of Python projects, each designed to enhance your coding skills and deepen your understanding of Python development. From beginner-friendly tasks to advanced challenges, there's something for everyone.
 
-- 👉 [Assignment I](Assignment%20I)
+- 👉 [Assignment I](https://github.com/baihelahusain/Prepway-Internship/tree/main/Python/Assessment1)
 - 👉 [Assignment II](Assigment%20II)
 - 👉 [Assignment III](Assignment%20III)
 - 👉 [Assignment IV](Assignment%20IV)
