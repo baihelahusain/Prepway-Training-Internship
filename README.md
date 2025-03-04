@@ -41,3 +41,5 @@ Explore a variety of Python projects, each designed to enhance your coding skill
 
 
 -Happy coding! 🚀✨ 
+![Screenshot From 2025-03-04 23-05-58](https://github.com/user-attachments/assets/d75c71d4-91e3-43d0-9c05-a9bd21f3b659)
+
