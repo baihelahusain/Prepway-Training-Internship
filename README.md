@@ -33,8 +33,9 @@ Explore a variety of Python projects, each designed to enhance your coding skill
 - 👉 [Assignment VI](Assignment%20VI)
 - 👉 [Python HackerRank Practice](Python%20HackerRank%20Practice)
 
+---
 
-### Connect with Me
+## Connect with Me
 
 - Email: <a href="mailto:email@example.com">baihelahusain@gmail.com</a>
 - linkedin: <a href="https://www.linkedin.com/in/baihela-hussain/" target="_blank">@baihelahussain</a>
