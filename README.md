@@ -3,12 +3,14 @@
 "🐍 PyInternAdventures 🚀 - Embark on a coding adventure with this repository dedicated to curating and showcasing my Python internship projects! From innovative challenges to hands-on exercises, join me on a journey of skill-building and project mastery. Let's code, learn, and conquer the world of Python internships together! 💻✨
 
 ## Content
-- 👉 [Assignment I](https://github.com/baihelahusain/Prepway-Internship/tree/main/Python/Assessment1)
-- 👉 [Assignment II](Assigment%20II)
-- 👉 [Assignment III](Assignment%20III)
-- 👉 [Assignment IV](Assignment%20IV)
-- 👉 [Assignment V](Assignment%20V)
-- 👉 [Assignment VI](Assignment%20VI)
+- 👉 [Assignment 1](https://github.com/baihelahusain/Prepway-Internship/tree/main/Python/Assessment1)
+- 👉 [Assignment 2](https://github.com/baihelahusain/Prepway-Internship/tree/main/Python/Assessment2)
+- 👉 [Assignment 3](https://github.com/baihelahusain/Prepway-Internship/tree/main/Python/Assessment3)
+- 👉 [Assignment 4](https://github.com/baihelahusain/Prepway-Internship/tree/main/Python/Assessment4)
+- 👉 [Assignment 5](https://github.com/baihelahusain/Prepway-Internship/tree/main/Python/Assessment5)
+- 👉 [Assignment 6](https://github.com/baihelahusain/Prepway-Internship/tree/main/Python/Assessment6)
+- 👉 [Assignment 7](https://github.com/baihelahusain/Prepway-Internship/tree/main/Python/Assessment7)
+- 👉 [Assignment 8](https://github.com/baihelahusain/Prepway-Internship/tree/main/Python/Assessment8)
 
 ## Overview
 
